@@ -3,11 +3,11 @@
 <h3>About Me</h3>
 <p>I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created lots of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.</p>
 <h3>Skill</h3>
-✅ Laravel
-✅ ReactJs
-✅ PHP
-✅ HTML5 / CSS3 / SASS / Bootstrap
-✅ JavaScript
+✅ Laravel<br>
+✅ ReactJs<br>
+✅ PHP<br>
+✅ HTML5 / CSS3 / SASS / Bootstrap<br>
+✅ JavaScript<br>
 - 👨‍💻 All of my projects are available at [https://kawsarahmedshopno.github.io/my-portfolio/]
 
 

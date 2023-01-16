@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kawsar</h1>
 <h3 align="center">👑 I am Full Stack Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge</h3>
+<h3>About Me</h3>
 <p>I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created lots of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.</p>
-- 👨‍💻 All of my projects are available at [https://kawsarahmedshopno.github.io/my-portfolio/](https://kawsarahmedshopno.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://kawsarahmedshopno.github.io/my-portfolio/]
 
 
 
